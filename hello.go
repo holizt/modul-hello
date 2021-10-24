@@ -1,5 +1,5 @@
 package modul_hello
 
 func SayHello() string {
-	return "Hay Welcome"
+	return "Hay Welcome person"
 }
